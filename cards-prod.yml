@@ -2,7 +2,7 @@ build:
   version: v1.6
 
 cards:
-  message: "Welcome to our Bank of Cards in PRODUCTION env."
+  message: "Welcome to our Bank of Cards in PROD env."
   contactDetails:
     name: "prodbabu"
     email: "prodbabu@jaibank.com"

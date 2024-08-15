@@ -1,0 +1,11 @@
+build:
+  version: v1.5
+
+cards:
+  message: "Welcome to our Bank of Cards in QA env."
+  contactDetails:
+    name: "qababu"
+    email: "qababu@jaibank.com"
+  onCallSupport:
+    - 987654321234
+    - 987654312345

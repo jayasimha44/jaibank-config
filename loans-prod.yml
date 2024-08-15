@@ -1,0 +1,11 @@
+build:
+  version: 1.4
+
+loans:
+  message: "Welcome to the Loans section of PROD in jaiBank"
+  contactDetails:
+    name: "Ajay"
+    email: "ajayreddy@gmail.com"
+  onCallSupport:
+    - 9080706050
+    - 1020304050

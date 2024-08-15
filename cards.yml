@@ -1,0 +1,11 @@
+build:
+  version: v1.4
+
+cards:
+  message: "Welcome to our Bank of Cards."
+  contactDetails:
+    name: "Jai Raj"
+    email: "jairaj@jaibank.com"
+  onCallSupport:
+    - 987654321234
+    - 987654312345

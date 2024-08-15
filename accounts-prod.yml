@@ -1,0 +1,10 @@
+build:
+  version: v3.0
+accounts:
+  message: "Welcome to our Bank of Account for PROD APIs."
+  contactDetails:
+    name: "doe"
+    email: "doe@jaibank.com"
+  onCallSupport:
+    - 999999997774
+    - 999999996665

@@ -1,0 +1,10 @@
+build:
+  version: v2.0
+accounts:
+  message: "Welcome to our Bank of Account for QA APIs."
+  contactDetails:
+    name: "Sam"
+    email: "sam@jaibank.com"
+  onCallSupport:
+    - 987654456234
+    - 987654487345

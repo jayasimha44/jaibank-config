@@ -2,7 +2,7 @@ build:
   version: 1.4
 
 loans:
-  message: "Welcome to the Loans section of PROD in jaiBank"
+  message: "Welcome to the Loans section of PRODUCTION in jaiBank"
   contactDetails:
     name: "Ajay"
     email: "{cipher}b4218d9e52d5fd85035d48b246b185b00d1789712a90bf14573e1a564576f435d6b2fce892001e22566dccf79ebc0197"

@@ -1,7 +1,7 @@
 build:
   version: v3.0
 accounts:
-  message: "Welcome to our Bank of Account for PROD APIs."
+  message: "Welcome to our Bank of Account for PRODUCTION APIs."
   contactDetails:
     name: "doe"
     email: "doe@jaibank.com"
